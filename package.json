@@ -13,7 +13,6 @@
   ],
   "dependencies": {
     "express": "^4.15.2",
-    //"owllocation": "file:localization",
     "socket.io": "^2.0.1"
   },
   "engines": {
