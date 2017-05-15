@@ -1,0 +1,20 @@
+{
+  "name": "servertest",
+  "version": "0.0.1",
+  "description": "simple sserver for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "express"
+  ],
+  "author": "bonnard valentin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "owllocation": "file:///C:\\Users\\Bonnard_Valentin\\Desktop\\workspace\\moduleLoca",
+    "socket.io": "^2.0.1"
+  }
+}
