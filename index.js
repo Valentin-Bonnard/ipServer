@@ -43,7 +43,7 @@ io.sockets.on('connection', function (socket) {
 const express = require('express')
     , app = express()
     , http = require('http')
-    , locate = require('owllocation')
+    // , locate = require('owllocation')
     , port = 3000;
 
 const requestHandler = (request, response) => {
