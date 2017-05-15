@@ -1,0 +1,27 @@
+{
+  "name": "owllocation",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "module localization by ip, address",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/test.js"
+  },
+  "keywords": [
+    "module",
+    "nodejs",
+    "ip localization",
+    "geolocalization"
+  ],
+  "author": "Bonnard Valentin",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "request": "^2.81.0",
+    "validator": "^7.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
